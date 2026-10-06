@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- STYL Solutions / Toppan Forms TC63CUT021 and common smart card readers -->
+    <usb-device vendor-id="1305" product-id="4612" />
+    <usb-device vendor-id="2816" product-id="20737" />
+</resources>
